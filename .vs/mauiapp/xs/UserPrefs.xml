@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{DB54FAA2-5234-41C6-B01A-B376F8B3493C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Audio.razor">
+    <Files>
+      <File FileName="Platforms/Android/AndroidManifest.xml" />
+      <File FileName="wwwroot/index.html" />
+      <File FileName="_Imports.razor" />
+      <File FileName="App.xaml" />
+      <File FileName="Main.razor" />
+      <File FileName="MainPage.xaml" />
+      <File FileName="MauiProgram.cs" />
+      <File FileName="Platforms/MacCatalyst/Program.cs" />
+      <File FileName="Pages/Audio.razor" Line="1" Column="1" />
+      <File FileName="Shared/MainLayout.razor" />
+      <File FileName="Shared/NavMenu.razor" />
+      <File FileName="Platforms/Android/MainActivity.cs" />
+      <File FileName="Platforms/Android/MainApplication.cs" />
+      <File FileName="Platforms/iOS/AppDelegate.cs" />
+      <File FileName="Platforms/Android/Resources/values/colors.xml" />
+      <File FileName="../../.nuget/packages/plugin.firebasepushnotification/3.4.25/readme.txt" />
+      <File FileName="mauiapp.csproj" />
+      <File FileName="../../../../usr/local/share/dotnet/x64/packs/Microsoft.Android.Sdk.Darwin/31.0.200-preview.14.106/tools/Xamarin.Android.Common.targets" />
+      <File FileName="../../../../usr/local/share/dotnet/x64/packs/Microsoft.Android.Sdk.Darwin/31.0.200-preview.14.106/tools/Xamarin.Android.Aapt2.targets" />
+      <File FileName="Resources/appicon.svg" />
+      <File FileName="Resources/appiconfg.svg" />
+      <File FileName="Resources/Raw/AboutAssets.txt" />
+      <File FileName="Pages/Input.razor" Line="1" Column="1" />
+      <File FileName="Pages/Camera.razor" Line="1" Column="1" />
+      <File FileName="Platforms/iOS/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mauiapp" expanded="True">
+            <Node name="mauiapp" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Raw" expanded="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mauiapp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.99.36" />
+</Properties>
